@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  ## Hi there 👋 I'm Rehan<br><br>I'm a Frontend Developer and Software Engineering student leveling up to Full-Stack, with a future goal of mastering LLMs!<br><br>* 🔭 **I’m currently working on:** A Full-Stack Role-Based Auth System, an Attendance Check-in/Checkout System, and a Weather Teller.<br>* 🌱 **I’m currently learning:** Full-stack architecture, while mastering core concepts like API data fetching and dynamic DOM rendering.<br>* 👯 **I’m looking to collaborate on:** Full-stack web apps and open-source projects.<br>* 💬 **Ask me about:** Frontend UI, data fetching, rendering, and core JavaScript!<br>* 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/rehan-imtiaz-3745133aa)<br>* ⚡ **Fun fact:** My ultimate roadmap is Web Dev ➡️ Full Stack ➡️ AI/LLMs!<br>
 
 
