@@ -1,5 +1,5 @@
 # About Me:
-## Hi there 👋 I'm Rehan
+## Hi there  I'm Rehan Imtiaz
 <br>
 
 I'm a Frontend Developer and Software Engineering student leveling up to Full-Stack, with a future goal of mastering LLMs!
